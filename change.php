@@ -12,7 +12,7 @@
 <body>
 <br><br><br><br>
 <div class="container">
-	<a href='change.php'> HOME </a>
+	<a href='index.php'> HOME </a>
 	<div class="panel panel-primary">
 		<div class="panel-heading">Wachtwoord wijzigen:</div>
 		<div class="panel-body">
